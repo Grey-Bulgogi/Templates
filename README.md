@@ -1,6 +1,5 @@
 # Code Templates
-This repo is for code I mainly used.
------
+- This repo is for code I mainly used.
 
 1. Numpy Template
 
